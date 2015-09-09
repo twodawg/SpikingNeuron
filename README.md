@@ -1,0 +1,2 @@
+# SpikingNeuron
+Simple Spiking Neuron
